@@ -6,7 +6,7 @@ addons:
   sonarcloud:
     organization: "WanjaADFGVX"
     token:
-      secure: "9c8768f3a96b1fb99077361f8f49512bd511e6d0"
+      secure: "abed417b0f995114d2ccf5f3c1faefaf5b07e4e7"
 
 script:
   - ./gradlew build
